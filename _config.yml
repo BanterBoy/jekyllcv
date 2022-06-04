@@ -1,0 +1,15 @@
+title: Luke Leigh CV
+description: Luke Leigh CV
+url: https://lukeleigh.com
+baseurl: ""
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-minifier
+
+exclude:
+  - docker-compose.yml

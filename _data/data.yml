@@ -1,0 +1,73 @@
+name: Luke Leigh
+support_dark_mode: true
+fork: false
+
+# Sidebar
+contact:
+  email: me@lukeleigh.com
+  github: BanterBoy
+  linkedin: lukeleigh
+  phone:
+  gitlab:
+  twitter: luke_leighs
+
+languages:
+  - idiom: English
+  - idiom: PowerShell
+
+skills:
+  - category:
+    skill:
+      - Windows Server
+      - Active Directory
+      - PowerShell
+      - Automation
+
+# Profile
+profile: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariaturs. Excepteur sint occaecat cupidatat non proident, sunt in.
+
+# Experience
+experience:
+  - role: Senior Infrastructure Engineer - Permanent
+    time: Jul 2021 - Present
+    company: Carpetright, Purfleet, England, United Kingdom
+    details: |
+      - Responsible for managing and delivering project implementations.
+      - IT Infrastructure support for the group.
+      - Management of alerts from systems and ensuring the appropriate action is performed.
+      - Maintain messaging platform, including Exchange, Mimecast, Exchange online.
+      - Configure and troubleshoot servers, including e-mail, print, and backup servers and their associated operating systems and software.
+      - Project manage and deliver the implementation of new solutions in line with the business and ICT Strategy.
+      - Ensure network and IP connectivity of all workstations, application servers, and back-end office infrastructure.
+      - Maintain and support virtualisation platforms.
+      - Maintain / administer Microsoft stack (On-Premises & Cloud).
+    technologies_used: |
+      Azure, Office 365, Active Directory, Exchange, Mimecast, SQL Server, Networking, Firewall (Palo Alto, FortiGate), PowerShell, Automation
+
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+projects:
+  - title: Cool Project
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+# Volunteering
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
